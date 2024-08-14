@@ -1,0 +1,24 @@
+{
+    "Credential": {
+        "Username": "FTP user name",
+        "Password": "FTP user password",
+        "Port": 21
+    },
+    "Databases": [
+        {
+            "DatabaseName": "Database Name",
+            "CompanyName": "Company Name",
+            "DaysBackKeep": 4
+        }
+    ],
+    "TargetServerIp": "ftp://URL:21",
+    "DatabaseServerName": "Database Server Name",
+    "DatabaseUserName": "Database user name",
+    "DatabasePassword": "Database password",
+    "ScheduleTime": [
+        "14:20",
+        "19:16",
+        "19:17"
+    ],
+    "BaseDir": "Base Directory"
+}
